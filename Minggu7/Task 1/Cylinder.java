@@ -1,4 +1,4 @@
-package com.praktek;
+package com.minggu7;
 
 public class Cylinder extends Circle{
 	private double height; // private variable
