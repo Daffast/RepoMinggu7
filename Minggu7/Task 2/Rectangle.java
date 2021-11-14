@@ -1,4 +1,4 @@
-package com.praktek;
+package com.minggu7;
 
 public class Rectangle extends Shape {
 	private double width;
