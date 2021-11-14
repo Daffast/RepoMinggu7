@@ -1,4 +1,4 @@
-package com.praktek;
+package com.minggu7;
 
 public class Circle {
 	// private instance variable, not accessible from outside this class
